@@ -1,0 +1,5 @@
+Type following command:
+tsc Assignment3Program1Client.ts
+Above command will create file Assignment3Program1Client.js
+Run this javascript file using node command as below
+node Assignment3Program1Client.js
